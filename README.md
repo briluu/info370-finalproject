@@ -1,8 +1,6 @@
 # info370-finalproject
 Final Project for INFO 370
 
-https://briluu.github.io/info370-finalproject/
-
 **Instructions on how to use the interactive Resources dashboard:**
 
 1. If you do not have Anaconda, download it via https://www.continuum.io/downloads
